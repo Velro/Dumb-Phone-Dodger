@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 278871f22cc042b468fa0d620241865d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: leftarm
+    100002: leftleg
+    100004: leftleg1
+    100006: polySurface1
+    100008: polySurface2
+    100010: polySurface3
+    100012: polySurface4
+    100014: polySurface5
+    100016: polySurface6
+    100018: polySurface7
+    100020: polySurface8
+    100022: polySurface9
+    100024: prof2:pCube1
+    100026: prof2:pCube10
+    100028: prof2:pCube11
+    100030: prof2:pCube12
+    100032: prof2:pCube13
+    100034: prof2:pCube2
+    100036: prof2:pCube4
+    100038: prof2:pCube5
+    100040: prof2:pCube6
+    100042: prof2:pCube7
+    100044: prof2:pCube8
+    100046: prof2:pCube9
+    100048: prof2:pSphere1
+    100050: //RootNode
+    100052: rightarm
+    100054: rightleg
+    100056: rightleg1
+    100058: torso
+    100060: torso1
+    100062: transform1
+    100064: transform10
+    100066: transform11
+    100068: transform12
+    100070: transform13
+    100072: transform14
+    100074: transform15
+    100076: transform16
+    100078: transform17
+    100080: transform18
+    100082: transform19
+    100084: transform2
+    100086: transform20
+    100088: transform21
+    100090: transform22
+    100092: transform23
+    100094: transform24
+    100096: transform25
+    100098: transform3
+    100100: transform4
+    100102: transform5
+    100104: transform6
+    100106: transform7
+    100108: transform8
+    100110: transform9
+    400000: leftarm
+    400002: leftleg
+    400004: leftleg1
+    400006: polySurface1
+    400008: polySurface2
+    400010: polySurface3
+    400012: polySurface4
+    400014: polySurface5
+    400016: polySurface6
+    400018: polySurface7
+    400020: polySurface8
+    400022: polySurface9
+    400024: prof2:pCube1
+    400026: prof2:pCube10
+    400028: prof2:pCube11
+    400030: prof2:pCube12
+    400032: prof2:pCube13
+    400034: prof2:pCube2
+    400036: prof2:pCube4
+    400038: prof2:pCube5
+    400040: prof2:pCube6
+    400042: prof2:pCube7
+    400044: prof2:pCube8
+    400046: prof2:pCube9
+    400048: prof2:pSphere1
+    400050: //RootNode
+    400052: rightarm
+    400054: rightleg
+    400056: rightleg1
+    400058: torso
+    400060: torso1
+    400062: transform1
+    400064: transform10
+    400066: transform11
+    400068: transform12
+    400070: transform13
+    400072: transform14
+    400074: transform15
+    400076: transform16
+    400078: transform17
+    400080: transform18
+    400082: transform19
+    400084: transform2
+    400086: transform20
+    400088: transform21
+    400090: transform22
+    400092: transform23
+    400094: transform24
+    400096: transform25
+    400098: transform3
+    400100: transform4
+    400102: transform5
+    400104: transform6
+    400106: transform7
+    400108: transform8
+    400110: transform9
+    2300000: leftarm
+    2300002: leftleg1
+    2300004: rightarm
+    2300006: rightleg1
+    2300008: torso1
+    3300000: leftarm
+    3300002: leftleg1
+    3300004: rightarm
+    3300006: rightleg1
+    3300008: torso1
+    4300000: rightleg1
+    4300002: leftleg1
+    4300004: rightarm
+    4300006: leftarm
+    4300008: torso1
+    7400000: prof_walk
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: prof_walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: leftarm
+        weight: 1
+      - path: leftleg
+        weight: 1
+      - path: leftleg/transform14
+        weight: 1
+      - path: leftleg1
+        weight: 1
+      - path: prof2:pCube1
+        weight: 1
+      - path: prof2:pCube1/transform11
+        weight: 1
+      - path: prof2:pCube2
+        weight: 1
+      - path: prof2:pCube2/transform15
+        weight: 1
+      - path: prof2:pCube4
+        weight: 1
+      - path: prof2:pCube4/transform13
+        weight: 1
+      - path: prof2:pCube5
+        weight: 1
+      - path: prof2:pCube5/transform9
+        weight: 1
+      - path: prof2:pCube6
+        weight: 1
+      - path: prof2:pCube6/transform8
+        weight: 1
+      - path: prof2:pCube7
+        weight: 1
+      - path: prof2:pCube7/transform7
+        weight: 1
+      - path: prof2:pCube8
+        weight: 1
+      - path: prof2:pCube8/transform6
+        weight: 1
+      - path: prof2:pCube9
+        weight: 1
+      - path: prof2:pCube9/transform4
+        weight: 1
+      - path: prof2:pCube10
+        weight: 1
+      - path: prof2:pCube10/transform1
+        weight: 1
+      - path: prof2:pCube11
+        weight: 1
+      - path: prof2:pCube11/transform3
+        weight: 1
+      - path: prof2:pCube12
+        weight: 1
+      - path: prof2:pCube12/transform2
+        weight: 1
+      - path: prof2:pCube13
+        weight: 1
+      - path: prof2:pCube13/transform10
+        weight: 1
+      - path: prof2:pSphere1
+        weight: 1
+      - path: prof2:pSphere1/transform5
+        weight: 1
+      - path: rightarm
+        weight: 1
+      - path: rightleg
+        weight: 1
+      - path: rightleg/transform12
+        weight: 1
+      - path: rightleg1
+        weight: 1
+      - path: torso
+        weight: 1
+      - path: torso/polySurface1
+        weight: 1
+      - path: torso/polySurface1/transform25
+        weight: 1
+      - path: torso/polySurface2
+        weight: 1
+      - path: torso/polySurface2/transform24
+        weight: 1
+      - path: torso/polySurface3
+        weight: 1
+      - path: torso/polySurface3/transform23
+        weight: 1
+      - path: torso/polySurface4
+        weight: 1
+      - path: torso/polySurface4/transform22
+        weight: 1
+      - path: torso/polySurface5
+        weight: 1
+      - path: torso/polySurface5/transform21
+        weight: 1
+      - path: torso/polySurface6
+        weight: 1
+      - path: torso/polySurface6/transform18
+        weight: 1
+      - path: torso/polySurface7
+        weight: 1
+      - path: torso/polySurface7/transform19
+        weight: 1
+      - path: torso/polySurface8
+        weight: 1
+      - path: torso/polySurface8/transform20
+        weight: 1
+      - path: torso/polySurface9
+        weight: 1
+      - path: torso/polySurface9/transform17
+        weight: 1
+      - path: torso/transform16
+        weight: 1
+      - path: torso1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 168
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

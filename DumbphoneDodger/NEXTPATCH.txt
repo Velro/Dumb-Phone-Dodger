@@ -1,0 +1,3 @@
+no collision far left
+names for scores
+networked leaderboard?

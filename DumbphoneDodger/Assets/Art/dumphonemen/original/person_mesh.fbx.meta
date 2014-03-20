@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 6c2effa2fae02ab4195e81c59f6ba85c
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: dumbphoneman2:pCube1
+    100002: dumbphoneman2:pCube10
+    100004: dumbphoneman2:pCube11
+    100006: dumbphoneman2:pCube12
+    100008: dumbphoneman2:pCube13
+    100010: dumbphoneman2:pCube14
+    100012: dumbphoneman2:pCube2
+    100014: dumbphoneman2:pCube3
+    100016: dumbphoneman2:pCube4
+    100018: dumbphoneman2:pCube5
+    100020: dumbphoneman2:pCube6
+    100022: dumbphoneman2:pCube7
+    100024: dumbphoneman2:pCube8
+    100026: dumbphoneman2:pCube9
+    100028: leftleg
+    100030: //RootNode
+    100032: rightleg
+    100034: torso
+    100036: transform1
+    100038: transform10
+    100040: transform11
+    100042: transform12
+    100044: transform13
+    100046: transform14
+    100048: transform2
+    100050: transform3
+    100052: transform4
+    100054: transform5
+    100056: transform6
+    100058: transform7
+    100060: transform8
+    100062: transform9
+    400000: dumbphoneman2:pCube1
+    400002: dumbphoneman2:pCube10
+    400004: dumbphoneman2:pCube11
+    400006: dumbphoneman2:pCube12
+    400008: dumbphoneman2:pCube13
+    400010: dumbphoneman2:pCube14
+    400012: dumbphoneman2:pCube2
+    400014: dumbphoneman2:pCube3
+    400016: dumbphoneman2:pCube4
+    400018: dumbphoneman2:pCube5
+    400020: dumbphoneman2:pCube6
+    400022: dumbphoneman2:pCube7
+    400024: dumbphoneman2:pCube8
+    400026: dumbphoneman2:pCube9
+    400028: leftleg
+    400030: //RootNode
+    400032: rightleg
+    400034: torso
+    400036: transform1
+    400038: transform10
+    400040: transform11
+    400042: transform12
+    400044: transform13
+    400046: transform14
+    400048: transform2
+    400050: transform3
+    400052: transform4
+    400054: transform5
+    400056: transform6
+    400058: transform7
+    400060: transform8
+    400062: transform9
+    2300000: leftleg
+    2300002: rightleg
+    2300004: torso
+    3300000: leftleg
+    3300002: rightleg
+    3300004: torso
+    4300000: rightleg
+    4300002: leftleg
+    4300004: torso
+    7400000: Walk
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dumbphoneman2:pCube1
+        weight: 1
+      - path: dumbphoneman2:pCube1/transform3
+        weight: 1
+      - path: dumbphoneman2:pCube2
+        weight: 1
+      - path: dumbphoneman2:pCube2/transform4
+        weight: 1
+      - path: dumbphoneman2:pCube3
+        weight: 1
+      - path: dumbphoneman2:pCube3/transform2
+        weight: 1
+      - path: dumbphoneman2:pCube4
+        weight: 1
+      - path: dumbphoneman2:pCube4/transform5
+        weight: 1
+      - path: dumbphoneman2:pCube5
+        weight: 1
+      - path: dumbphoneman2:pCube5/transform14
+        weight: 1
+      - path: dumbphoneman2:pCube6
+        weight: 1
+      - path: dumbphoneman2:pCube6/transform13
+        weight: 1
+      - path: dumbphoneman2:pCube7
+        weight: 1
+      - path: dumbphoneman2:pCube7/transform1
+        weight: 1
+      - path: dumbphoneman2:pCube8
+        weight: 1
+      - path: dumbphoneman2:pCube8/transform6
+        weight: 1
+      - path: dumbphoneman2:pCube9
+        weight: 1
+      - path: dumbphoneman2:pCube9/transform12
+        weight: 1
+      - path: dumbphoneman2:pCube10
+        weight: 1
+      - path: dumbphoneman2:pCube10/transform11
+        weight: 1
+      - path: dumbphoneman2:pCube11
+        weight: 1
+      - path: dumbphoneman2:pCube11/transform10
+        weight: 1
+      - path: dumbphoneman2:pCube12
+        weight: 1
+      - path: dumbphoneman2:pCube12/transform9
+        weight: 1
+      - path: dumbphoneman2:pCube13
+        weight: 1
+      - path: dumbphoneman2:pCube13/transform8
+        weight: 1
+      - path: dumbphoneman2:pCube14
+        weight: 1
+      - path: dumbphoneman2:pCube14/transform7
+        weight: 1
+      - path: leftleg
+        weight: 1
+      - path: rightleg
+        weight: 1
+      - path: torso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
